@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Project2</string>
+    <string name="information2">Tunggu hingga sistem mendeteksi uang Anda. Lalu, aplikasi akan menyebutkan nominal uang Anda.</string>
+    <string name="information1">Arahkan kamera Anda ke uang</string>
 </resources>
